@@ -1,5 +1,5 @@
 # Analysing-startup-expansion-data-
-a Python script for data EDA and a power Bii dashboard
+A Python script for data EDA and a power Bi dashboard
 
 # Prerequisites
 Ensure you have the following installed:
